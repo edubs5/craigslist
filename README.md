@@ -1,2 +1,1 @@
-craigslist
-==========
+This is a quick remake of the Craigslist UI.  Intended to be viewed locally by downloading files into your own computer.
